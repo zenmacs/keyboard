@@ -26,7 +26,7 @@ So I'm planning to build a custom keyboard.
   * I've never tried columnar, I suspect it has some benefits but also I don't have problems with staggered
   * So, I mosly went for columnar for curiosity/symmetry, but also I don't mind falling back to staggered in the two bottom rows, which I had to do
 * Emphasis on wideness for special keys
-  * Experiment: Hit shift+return in an Apple keyboard, using your right-hand index and middle fingers. Isn't in the most pleasing thing in the world?
+  * Experiment: Hit shift+return in an Apple keyboard, using your right-hand index and middle fingers. Isn't it the most pleasing thing in the world?
 * Caps key! We all could use it from time to time.
 * Qwerty layout not essential of course, and trivially swappable at a physical level.
 
@@ -52,4 +52,4 @@ So I'm planning to build a custom keyboard.
 
 ## Suggestions, variations?
 
-Copy the contents of the `raw_data` file, open http://www.keyboard-layout-editor.com/#/ , paste it into the `Raw data` tab.
+Copy the contents of the `raw_data` file, open http://www.keyboard-layout-editor.com , paste it into the `Raw data` tab.
